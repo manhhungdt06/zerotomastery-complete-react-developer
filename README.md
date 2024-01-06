@@ -10,6 +10,7 @@
   - [0005\_Declarative\_vs\_Imperative](#0005_declarative_vs_imperative)
   - [0006\_Component\_Architecture](#0006_component_architecture)
   - [0007\_One\_Way\_Data\_Flow](#0007_one_way_data_flow)
+  - [0008\_UI\_Library](#0008_ui_library)
 
 ## 0002_Course_Outline
 
@@ -32,33 +33,21 @@
 ## 0005_Declarative_vs_Imperative
 
 <p align="center">
-  <img src="./images/0005_1.png" width="55%" />
-</p>
-
-<p align="center">
-  <img src="./images/0005_2.png" width="55%" />
-</p>
-
-<p align="center">
-  <img src="./images/0005_3.png" width="55%" />
+  <img src="./images/0005_1.png" width="33%" />
+  <img src="./images/0005_2.png" width="33%" />
+  <img src="./images/0005_3.png" width="33%" />
 </p>
 
 ## 0006_Component_Architecture
 
 <p align="center">
-  <img src="./images/0006_1.png" width="55%" />
+  <img src="./images/0006_1.png" width="49%" />
+  <img src="./images/0006_2.png" width="49%" />
 </p>
 
 <p align="center">
-  <img src="./images/0006_2.png" width="55%" />
-</p>
-
-<p align="center">
-  <img src="./images/0006_3.png" width="55%" />
-</p>
-
-<p align="center">
-  <img src="./images/0006_4.png" width="55%" />
+  <img src="./images/0006_3.png" width="49%" />
+  <img src="./images/0006_4.png" width="49%" />
 </p>
 
 <p align="center">
@@ -68,13 +57,14 @@
 ## 0007_One_Way_Data_Flow
 
 <p align="center">
-  <img src="./images/0007_1.png" width="55%" />
+  <img src="./images/0007_1.png" width="33%" />
+  <img src="./images/0007_2.png" width="33%" />
+  <img src="./images/0007_3.png" width="33%" />
 </p>
 
-<p align="center">
-  <img src="./images/0007_2.png" width="55%" />
-</p>
+## 0008_UI_Library
 
 <p align="center">
-  <img src="./images/0007_3.png" width="55%" />
+  <img src="./images/0008_1.png" width="49%" />
+  <img src="./images/0008_2.png" width="49%" />
 </p>
